@@ -11,9 +11,9 @@ export default function Home() {
       {/* Content Overlay */}
       <div className="relative flex flex-col items-center justify-start min-h-screen bg-gradient-to-b from-black/60 to-black/80 text-white text-center p-6 pt-20">
         <div>
-          <h1 className="text-5xl font-bold mb-6">Akshra's 3D Portfolio</h1>
+          <h1 className="text-5xl font-bold mb-6">Akshra Portfolio</h1>
           <p className="text-lg mb-8">
-            Experience creativity through interactive 3D models and designs.
+            Experience creativity through interactive .
           </p>
           <a
             href="https://www.instagram.com/akshra1582/"
